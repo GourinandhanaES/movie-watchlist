@@ -10,3 +10,6 @@ A Movie Watchlist app built with React that allows users to search for movies us
 - Mark movies as watched
 - Simple and intuitive UI
 - Responsive design for an optimal experience on different devices
+
+![Movie App Screenshot](./movieApp-screenshot.jpeg)
+
