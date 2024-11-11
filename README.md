@@ -1,8 +1,12 @@
-# React + Vite
+## Movie Watchlist App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Movie Watchlist app built with React that allows users to search for movies using the OMDb API, add them to a personal watchlist, and mark movies as watched. This project demonstrates API integration and basic state management in React.
 
-Currently, two official plugins are available:
+## Tech Stack: React, API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+- Search for movies via the OMDb API
+- Add and remove movies from the watchlist
+- Mark movies as watched
+- Simple and intuitive UI
+- Responsive design for an optimal experience on different devices
